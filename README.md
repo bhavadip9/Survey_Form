@@ -8,7 +8,8 @@
             
 - 3. Validation:
            
-
+## Screenshots 
+![App Screenshot]("C:\Users\dell\Pictures\Screenshot_1.jpg")
 Requirements:
 ● Use React functional components and hooks (useState, useEffect, useContext).
 ● Implement custom hooks for form validation and management.
